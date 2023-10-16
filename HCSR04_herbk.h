@@ -1,6 +1,6 @@
 /*
  HCSR04_herbk library is forked from NewPing v1.8, because NewPing above v1.8 is licenced with limitationsto change/extend the code.
-Autor of HCSR04_herbk library is Herbert Kozuschnik
+Autor of HCSR04_herbk library is Herbert Kozuschnik hkozuschnik2@leonardod2.de  (remove all 2 if you want to get in contact)
 License of HCSR04_herbk library: GNU GPL v3 http://www.gnu.org/licenses/gpl.html
 
 This software is furnished "as is", without technical support, and with no warranty, express or implied, as to its usefulness for any purpose.
